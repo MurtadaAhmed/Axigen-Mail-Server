@@ -1,5 +1,7 @@
 # Axigen-Mail-Server
 
+Official Documentations: https://www.axigen.com/documentation/deploying-running-axigen-in-docker-p686522391
+
 Instructions:
 
 1. Run the docker compose file from this directory:
@@ -59,4 +61,6 @@ Content: v=spf1 ip4:YOUR_SERVER_IP_ADDRESS include:spf.axigen.com -all
 ```
 
 5. Start testing receiving and sending emails by accessing your domain directly and login to the account that you created in step 3
+
+website to debug if there is an issue with the DNS or receiving emails: https://mxtoolbox.com/
 
