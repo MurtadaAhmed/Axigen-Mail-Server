@@ -62,5 +62,9 @@ Content: v=spf1 ip4:YOUR_SERVER_IP_ADDRESS include:spf.axigen.com -all
 
 5. Start testing receiving and sending emails by accessing your domain directly and login to the account that you created in step 3
 
+6. To remove the default Axigen signature in the sent emails:
+
+From Domain & accounts >> Manage Domains >> Click Edit on the respective domain >> select the tab MESSAGE APPENDER and remove the text >> SAVE CONFIGURATION.
+
 website to debug if there is an issue with the DNS or receiving emails: https://mxtoolbox.com/
 
