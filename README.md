@@ -20,6 +20,9 @@ From Domain & Accounts >> Manage Accounts >> add account name and password >> qu
 
 4. If using cloudflare using the following dns settings:
 
+The Custom SSL/TLS settings in cloudflare should be set to **Full**.
+
+
 ```
 Type: MX
 
