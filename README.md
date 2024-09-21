@@ -1,5 +1,7 @@
 # Axigen-Mail-Server
 
+Official Documentations: https://www.axigen.com/documentation/deploying-running-axigen-in-docker-p686522391
+
 Instructions:
 
 1. Run the docker compose file from this directory:
